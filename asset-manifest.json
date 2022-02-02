@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Phone-Website/static/css/main.a9f57019.css",
+    "main.js": "/Phone-Website/static/js/main.222d1249.js",
+    "static/js/787.749249f0.chunk.js": "/Phone-Website/static/js/787.749249f0.chunk.js",
+    "static/media/logo.svg": "/Phone-Website/static/media/logo.393df3f4cb4f91b7f8f821dd684dba53.svg",
+    "index.html": "/Phone-Website/index.html",
+    "main.a9f57019.css.map": "/Phone-Website/static/css/main.a9f57019.css.map",
+    "main.222d1249.js.map": "/Phone-Website/static/js/main.222d1249.js.map",
+    "787.749249f0.chunk.js.map": "/Phone-Website/static/js/787.749249f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9f57019.css",
+    "static/js/main.222d1249.js"
+  ]
+}
